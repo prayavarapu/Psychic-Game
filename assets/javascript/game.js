@@ -65,7 +65,7 @@
           	 }
 
          // Here we create the HTML that will be injected into our div and displayed on the page.
-          var html = "<p> Choose your first letter to start playing! </p>" +
+          var html =
           "<p>Wins: " + wins + "</p>" +
           "<p>Losses: " + losses + "</p>" +
           "<p>Guesses left: " + guessesLeft + "</p>" +
